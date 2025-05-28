@@ -128,7 +128,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -176,3 +175,5 @@ cython_debug/
 # Node.js
 mcp_tensorus_server/node_modules/
 mcp_tensorus_server/package-lock.json
+config.bat
+node_modules
